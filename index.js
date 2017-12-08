@@ -3,4 +3,6 @@ function destructivelyAppendKitten(kittens){
   var kittens = ["Milo", "Otis", "Garfield"]
   kittens = kittens.push("Ralph");
   destructivelyAppendKitten()
+
+  kittens 
 }
